@@ -460,7 +460,7 @@ function initTerminalCopy() {
    Email Configuration & Real Mail Sender
    ========================================================================== */
 // Change this email to your actual email address to receive messages directly in your inbox!
-const RECIPIENT_EMAIL = 'https://formsubmit.co/el/dodela';
+const RECIPIENT_EMAIL = 'dhanushk7039@gmail.com';
 
 function initContactForm() {
   const contactForm = document.getElementById('contact-form');
